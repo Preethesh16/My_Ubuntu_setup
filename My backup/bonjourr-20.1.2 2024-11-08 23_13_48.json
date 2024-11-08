@@ -1,0 +1,218 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "20.1.2"
+  },
+  "showall": false,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "Carvalho    ",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "auto",
+  "background_blur": 8,
+  "background_bright": 0.8,
+  "background_type": "unsplash",
+  "quicklinks": true,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": 31,
+  "css": "",
+  "hide": {},
+  "linkstyle": "medium",
+  "linktitles": true,
+  "linkbackgrounds": true,
+  "linknewtab": false,
+  "linksrow": 6,
+  "linkspcrgcn": {
+    "_id": "linkspcrgcn",
+    "order": 8,
+    "parent": "default",
+    "title": "playfly",
+    "url": "https://playfly.com/"
+  },
+  "linkspaphlj": {
+    "_id": "linkspaphlj",
+    "order": 10,
+    "parent": "default",
+    "title": "shp",
+    "url": "https://shp.karnataka.gov.in/"
+  },
+  "linkspaedol": {
+    "_id": "linkspaedol",
+    "order": 9,
+    "parent": "default",
+    "title": "ssp",
+    "url": "https://ssp.postmatric.karnataka.gov.in/"
+  },
+  "linksmojakr": {
+    "_id": "linksmojakr",
+    "order": 0,
+    "parent": "default",
+    "title": "Youtube",
+    "url": "https://www.youtube.com/?themeRefresh=1"
+  },
+  "linksmoiogd": {
+    "_id": "linksmoiogd",
+    "order": 4,
+    "parent": "default",
+    "title": "chess",
+    "url": "https://www.chess.com"
+  },
+  "linksmlofbi": {
+    "_id": "linksmlofbi",
+    "order": 12,
+    "parent": "default",
+    "title": "sjec",
+    "url": "https://sjecparents.contineo.in/index.php?option=com_bvbsims&controller=course&task=courseregv",
+    "icon": "https://api.bonjourr.fr/favicon/blob/https://sjecparents.contineo.in/index.php?option=com_bvbsims&controller=course&task=courseregv"
+  },
+  "linkskernmc": {
+    "_id": "linkskernmc",
+    "order": 2,
+    "parent": "default",
+    "title": "github",
+    "url": "https://github.com/Preethesh16"
+  },
+  "linkskbjcif": {
+    "_id": "linkskbjcif",
+    "order": 7,
+    "parent": "default",
+    "title": "gmeet",
+    "url": "https://meet.google.com/landing"
+  },
+  "linksjreikh": {
+    "_id": "linksjreikh",
+    "order": 6,
+    "parent": "default",
+    "title": "udemy",
+    "url": "https://www.udemy.com/",
+    "icon": "https://i.pinimg.com/originals/c5/b8/62/c5b8629f2d33cee6008a49756b6b210a.png"
+  },
+  "linksikfdaa": {
+    "_id": "linksikfdaa",
+    "order": 3,
+    "parent": "default",
+    "title": "gmail",
+    "url": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  "linkshejlkb": {
+    "_id": "linkshejlkb",
+    "order": 5,
+    "parent": "default",
+    "title": "gclass",
+    "url": "https://classroom.google.com/u/1/h?pli=1",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGNCEB-A0Om7_UEDJOyH2c3cDr5_YCZrSCw&s"
+  },
+  "linksebabgi": {
+    "_id": "linksebabgi",
+    "order": 11,
+    "parent": "default",
+    "title": "kmdc",
+    "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+  },
+  "linkscmcoag": {
+    "_id": "linkscmcoag",
+    "order": 1,
+    "parent": "default",
+    "title": "gpt",
+    "url": "https://chatgpt.com/"
+  },
+  "linkgroups": {
+    "groups": [
+      "default"
+    ],
+    "on": false,
+    "pinned": [],
+    "selected": "default",
+    "synced": []
+  },
+  "clock": {
+    "ampm": false,
+    "ampmlabel": false,
+    "analog": false,
+    "seconds": false,
+    "size": 1,
+    "timezone": "auto",
+    "worldclocks": false
+  },
+  "analogstyle": {
+    "background": "#fff2",
+    "border": "#ffff",
+    "face": "none",
+    "hands": "modern",
+    "shape": "round"
+  },
+  "worldclocks": [],
+  "unsplash": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "evening",
+    "time": 1731087642822
+  },
+  "weather": {
+    "ccode": "IN",
+    "city": "mangalore",
+    "forecast": "auto",
+    "geolocation": "precise",
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "actual",
+    "unit": "metric"
+  },
+  "notes": {
+    "on": false,
+    "align": "left",
+    "opacity": 0.1,
+    "width": 40
+  },
+  "searchbar": {
+    "on": false,
+    "opacity": 0.1,
+    "engine": "default",
+    "newtab": false,
+    "placeholder": "",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": true,
+    "author": true,
+    "frequency": "day",
+    "last": 1731021989932,
+    "type": "classic"
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weight": "300",
+    "weightlist": []
+  },
+  "move": {
+    "layouts": {
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}

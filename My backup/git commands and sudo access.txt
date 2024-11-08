@@ -1,0 +1,13 @@
+git init
+git add .         
+git commit -m " "
+git branch -M main
+
+git remote add origin https://github.com/profile/path
+
+remote set-url origin 
+git push origin main --force
+
+
+sudo chmod a+rw /dev/ttyUSB1
+
