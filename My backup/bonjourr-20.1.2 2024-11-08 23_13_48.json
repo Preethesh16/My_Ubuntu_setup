@@ -1,7 +1,7 @@
 {
   "about": {
     "browser": "chrome",
-    "version": "20.1.2"
+    "version": "20.4.2"
   },
   "showall": false,
   "lang": "en",
@@ -14,13 +14,13 @@
   "time": true,
   "main": true,
   "dateformat": "auto",
-  "background_blur": 8,
+  "background_blur": 5,
   "background_bright": 0.8,
   "background_type": "unsplash",
   "quicklinks": true,
   "textShadow": 0.2,
   "announcements": "major",
-  "review": 31,
+  "review": -1,
   "css": "",
   "hide": {},
   "linkstyle": "medium",
@@ -37,13 +37,22 @@
   },
   "linkspaphlj": {
     "_id": "linkspaphlj",
+    "icon": "https://grantunity.com/wp-content/uploads/2022/08/Karnataka-SSP-Scholarship.webp",
     "order": 10,
     "parent": "default",
     "title": "shp",
     "url": "https://shp.karnataka.gov.in/"
   },
+  "linkspalpmd": {
+    "_id": "linkspalpmd",
+    "order": 13,
+    "parent": "default",
+    "title": "codechef",
+    "url": "https://www.codechef.com/"
+  },
   "linkspaedol": {
     "_id": "linkspaedol",
+    "icon": "https://grantunity.com/wp-content/uploads/2022/08/Karnataka-SSP-Scholarship.webp",
     "order": 9,
     "parent": "default",
     "title": "ssp",
@@ -65,11 +74,19 @@
   },
   "linksmlofbi": {
     "_id": "linksmlofbi",
+    "icon": "https://sjec.ac.in/storage/pages/rich_editors/1710441984_65f3460008935.gif",
     "order": 12,
     "parent": "default",
     "title": "sjec",
-    "url": "https://sjecparents.contineo.in/index.php?option=com_bvbsims&controller=course&task=courseregv",
-    "icon": "https://api.bonjourr.fr/favicon/blob/https://sjecparents.contineo.in/index.php?option=com_bvbsims&controller=course&task=courseregv"
+    "url": "https://sjecparents.contineo.in/index.php?option=com_bvbsims&controller=course&task=courseregv"
+  },
+  "linksknedbk": {
+    "_id": "linksknedbk",
+    "icon": "https://images.seeklogo.com/logo-png/61/1/deepseek-ai-icon-logo-png_seeklogo-611473.png",
+    "order": 18,
+    "parent": "default",
+    "title": "Deepseek",
+    "url": "https://chat.deepseek.com/"
   },
   "linkskernmc": {
     "_id": "linkskernmc",
@@ -87,11 +104,11 @@
   },
   "linksjreikh": {
     "_id": "linksjreikh",
+    "icon": "https://i.pinimg.com/originals/c5/b8/62/c5b8629f2d33cee6008a49756b6b210a.png",
     "order": 6,
     "parent": "default",
     "title": "udemy",
-    "url": "https://www.udemy.com/",
-    "icon": "https://i.pinimg.com/originals/c5/b8/62/c5b8629f2d33cee6008a49756b6b210a.png"
+    "url": "https://www.udemy.com/"
   },
   "linksikfdaa": {
     "_id": "linksikfdaa",
@@ -100,23 +117,54 @@
     "title": "gmail",
     "url": "https://mail.google.com/mail/u/0/#inbox"
   },
+  "linksifilnm": {
+    "_id": "linksifilnm",
+    "order": 16,
+    "parent": "default",
+    "title": "draw",
+    "url": "https://excalidraw.com/"
+  },
   "linkshejlkb": {
     "_id": "linkshejlkb",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGNCEB-A0Om7_UEDJOyH2c3cDr5_YCZrSCw&s",
     "order": 5,
     "parent": "default",
     "title": "gclass",
-    "url": "https://classroom.google.com/u/1/h?pli=1",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGNCEB-A0Om7_UEDJOyH2c3cDr5_YCZrSCw&s"
+    "url": "https://classroom.google.com/u/1/h?pli=1"
+  },
+  "linksencbpf": {
+    "_id": "linksencbpf",
+    "order": 14,
+    "parent": "default",
+    "title": "Telegram",
+    "url": "https://web.telegram.org/"
   },
   "linksebabgi": {
     "_id": "linksebabgi",
+    "icon": "https://kmdc.karnataka.gov.in/uploads/KMDC%20Logo%20PNG.png",
     "order": 11,
     "parent": "default",
     "title": "kmdc",
     "url": "https://kmdconline.karnataka.gov.in/Portal/login"
   },
+  "linkseajbdc": {
+    "_id": "linkseajbdc",
+    "icon": "data:image/png;base64,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",
+    "order": 17,
+    "parent": "default",
+    "title": "infosys",
+    "url": "https://infyspringboard.onwingspan.com/web/en/page/home"
+  },
+  "linksdkkcmh": {
+    "_id": "linksdkkcmh",
+    "order": 15,
+    "parent": "default",
+    "title": "typing",
+    "url": "https://www.typing.com/student/lesson/368/v-h-and-m-keys"
+  },
   "linkscmcoag": {
     "_id": "linkscmcoag",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1200px-ChatGPT-Logo.svg.png",
     "order": 1,
     "parent": "default",
     "title": "gpt",
@@ -151,14 +199,14 @@
   "unsplash": {
     "collection": "",
     "every": "hour",
-    "lastCollec": "evening",
-    "time": 1731087642822
+    "lastCollec": "day",
+    "time": 1738226088071
   },
   "weather": {
     "ccode": "IN",
-    "city": "mangalore",
+    "city": "nordend-west",
     "forecast": "auto",
-    "geolocation": "precise",
+    "geolocation": "approximate",
     "moreinfo": "none",
     "provider": "",
     "temperature": "actual",
@@ -183,7 +231,7 @@
     "on": true,
     "author": true,
     "frequency": "day",
-    "last": 1731021989932,
+    "last": 1738176253387,
     "type": "classic"
   },
   "font": {
@@ -192,6 +240,11 @@
     "system": true,
     "weight": "300",
     "weightlist": []
+  },
+  "supporters": {
+    "closed": true,
+    "enabled": true,
+    "month": 1
   },
   "move": {
     "layouts": {
